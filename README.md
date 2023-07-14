@@ -1,4 +1,5 @@
-### Hi there 👋
+### ✨Hi there 👋✨
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjstp14@gmail.com)](mailto:wjstp14@gmail.com)
 
 <!--
 **wjstp/wjstp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
